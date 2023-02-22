@@ -1,0 +1,8 @@
+graed = int(input("Enter your mark" ))
+if  graed >= 90   and   graed <=100 : 
+    print("A") 
+elif graed<90 and   graed >=50 :
+    print("B")
+else :
+    print("c")   
+    
